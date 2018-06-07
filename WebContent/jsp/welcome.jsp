@@ -6,6 +6,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-My First Home Project - Testing GitHub
+My First Home Project - Testing GitHub ->>>> Jun 07 2018
 </body>
 </html>
