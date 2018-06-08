@@ -1,1 +1,1 @@
-added in GitHub to test pull
+added in GitHub to test pull- checkin with Git GUI
