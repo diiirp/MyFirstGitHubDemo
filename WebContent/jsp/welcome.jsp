@@ -6,6 +6,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-My First Home Project - Testing GitHub -->> Need to rollback
+Welcome to Git Hub
 </body>
 </html>
